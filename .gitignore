@@ -1,7 +1,5 @@
 .DS_Store
 .idea
-lm.binary
-output_graph.pb
 target/
 *.class
 *.log
